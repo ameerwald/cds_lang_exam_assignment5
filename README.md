@@ -30,7 +30,7 @@ For this assignment, I used ```HuggingFace``` in a similar way to the previous a
 | Notes | Jupyter notebook and script with notes       
 | Out  | Visual representations of the data   
 | Src  | Py script 
-| Utils  |        
+| Utils  | Functions used for the main script        
 
 
 ## To run the scripts 
