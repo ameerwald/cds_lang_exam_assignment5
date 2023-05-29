@@ -1,0 +1,6 @@
+matplotlib
+transformers
+numpy
+pandas
+tensorflow-cpu
+seaborn
